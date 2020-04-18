@@ -6,6 +6,7 @@ Temos aqui uma base de dados que representa alguns de nossos usuários e seus da
 players:
 - player_id: identificação do jogador
 - cadastrado_em: sua data de cadastro
+
 matchmaking_stats_summary:
 - player_id: identificação do jogador
 - matches_played: quantidade de partidas jogadas
@@ -18,6 +19,7 @@ matchmaking_stats_summary:
 - hs: quantidade de tiros na cabeça
 - created_at: data de criação do registro
 - updated_at: data de última atualização do registro
+
 player_monthly_stats:
 - player_id: identificação do jogador
 - game_mode: modo de jogo
